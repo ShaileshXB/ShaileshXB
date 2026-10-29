@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=shailesh-1812&theme=highcontrast&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakNum=00B4D8&currStreakLabel=00B4D8"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ShaileshXb&theme=highcontrast&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakNum=00B4D8&currStreakLabel=00B4D8"/>
 </p>
